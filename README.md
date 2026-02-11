@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Dor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;DevOps+Engineer;Cloud+&+Kubernetes+Enthusiast;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+&+Kubernetes+Enthusiast;Always+Learning&center=true&width=500&height=45">
 </p>
 
 ---
@@ -70,8 +70,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DorLamesh&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorLamesh&layout=compact&theme=radical"/>
 </p>
 
 ---
