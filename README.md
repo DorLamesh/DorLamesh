@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🚀 DevOps Engineer | AI Enthusiast
-- ☁️ AWS | Terraform | Kubernetes 
+- ☁️ AWS | Terraform | Docker | Kubernetes | Git
 - 🔥 Passionate about automation & performance
 - 📚 Learning every day
 
